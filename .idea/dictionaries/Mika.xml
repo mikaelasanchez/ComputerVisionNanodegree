@@ -2,6 +2,7 @@
   <dictionary name="Mika">
     <words>
       <w>perceptron</w>
+      <w>sobel</w>
       <w>softmax</w>
     </words>
   </dictionary>
